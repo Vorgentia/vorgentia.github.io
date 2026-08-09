@@ -1,15 +1,31 @@
 # VORGENTIA RESEARCH
 
-Research Activities: 2025–Present
+**Research Activities: 2025–Present**
 
-This page confirms the independent public GitHub Pages environment for Vorgentia Research (VORG | PREFERIDO).
+Vorgentia Research operates as a stealth independent research initiative under **VORG | PREFERIDO**.
 
-Status: GitHub Pages active · HTTPS enabled . https://vorgentia.github.io/
+This repository provides the independent public GitHub Pages environment for Vorgentia Research.
 
-Verification page · August 2026
+**Website:** https://vorgentia.github.io/
+**Status:** GitHub Pages active · HTTPS enabled
+**Public Environment Verification:** August 2026
 
-Research materials remain subject to their stated authorship, licensing, intellectual-property, disclosure, and responsible-use terms.
+## Licensing and Intellectual Property
 
-Abhishek Kumar | Email: akumar@preferido.us | Phone : 510 371 3919 | All rights reserved 2026 | VORG | PREFERIDO 
+The MIT License applies solely to website source code expressly designated as MIT-licensed.
 
-(USPTO U.S. Patent)
+The MIT License does not apply to research papers, research disclosures, images, graphics, trademarks, service marks, patent-related materials, authored research content, or third-party publications and materials.
+
+Unless expressly stated otherwise, research materials remain subject to their respective authorship, copyright, licensing, intellectual-property, disclosure, publication, and responsible-use terms. Third-party materials remain subject to the terms established by their respective owners or publishers.
+
+
+## Contact
+
+**Primary Contact:** Abhishek Kumar
+**Email:** [akumar@preferido.us](mailto:akumar@preferido.us)
+**Phone:** +1 510-371-3919
+**Correspondence Mailing Address:** 31 Eagle Green, Fremont, CA 94538 USA
+
+© 2026 Abhishek Kumar · Vorgentia Research · VORG | PREFERIDO
+All rights reserved except for website source code expressly released under the MIT License.
+
